@@ -67,6 +67,7 @@
     <Compile Include="Assets\Scripts\DebugGameplayManager.cs" />
     <Compile Include="Assets\Scripts\DialogUIDisplay.cs" />
     <Compile Include="Assets\Scripts\ExaminableObject.cs" />
+    <Compile Include="Assets\Scripts\Flashlight.cs" />
     <Compile Include="Assets\Scripts\FlythroughCamera.cs" />
     <Compile Include="Assets\Scripts\InteractiveObject.cs" />
     <Compile Include="Assets\Scripts\InteractiveObjectReticle.cs" />
