@@ -66,6 +66,9 @@
     <Compile Include="Assets\Scripts\CameraFade.cs" />
     <Compile Include="Assets\Scripts\DebugGameplayManager.cs" />
     <Compile Include="Assets\Scripts\DialogUIDisplay.cs" />
+    <Compile Include="Assets\Scripts\Door.cs" />
+    <Compile Include="Assets\Scripts\EquippableObject.cs" />
+    <Compile Include="Assets\Scripts\EquippableObjectsManager.cs" />
     <Compile Include="Assets\Scripts\ExaminableObject.cs" />
     <Compile Include="Assets\Scripts\Flashlight.cs" />
     <Compile Include="Assets\Scripts\FlythroughCamera.cs" />
@@ -73,6 +76,7 @@
     <Compile Include="Assets\Scripts\InteractiveObjectReticle.cs" />
     <Compile Include="Assets\Scripts\LightFlicker.cs" />
     <Compile Include="Assets\Scripts\MouseLookCamera.cs" />
+    <Compile Include="Assets\Scripts\OrbitingCamera.cs" />
     <Compile Include="Assets\Scripts\ScenePause.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\Dialog.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\DialogList.cs" />
@@ -85,6 +89,7 @@
     <Compile Include="Assets\Scripts\Standard Assets (Modified)\FirstPersonController.cs" />
     <Compile Include="Assets\Scripts\Standard Assets (Modified)\LerpControlledBob.cs" />
     <Compile Include="Assets\Scripts\Standard Assets (Modified)\MouseLook.cs" />
+    <Compile Include="Assets\Scripts\ToggleableLight.cs" />
     <Compile Include="Assets\Third-Party\Standard Assets\Cameras\Scripts\AbstractTargetFollower.cs" />
     <Compile Include="Assets\Third-Party\Standard Assets\Cameras\Scripts\AutoCam.cs" />
     <Compile Include="Assets\Third-Party\Standard Assets\Cameras\Scripts\FreeLookCam.cs" />
